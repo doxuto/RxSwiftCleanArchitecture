@@ -1,0 +1,16 @@
+//
+//  STAG.xcconfig
+//  Example
+//
+//  Created by doxuto on 06/05/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Example STAG
+APP_BUNDLE_ID = com.doxuto.testy.stag
+MARKETING_VERSION = 1
+
+BRIDGING_HEADER_PATH = ${SRCROOT}/Example/Resources/Header/Example-Bridging-Header.h
+INFOPLIST = ${SRCROOT}/Example/Resources/Info/Info-STAG.plist

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static Resolver.registerAllProviders():Application+Injection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Resolver.main">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Application.().init():Application.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " Resolver.resolve(Domain.UseCaseProvider.self, name: .realmProvider)">
+            </PersistentString>
+            <PersistentString
+               value = " Resolver.resolve(Domain.UseCaseProvider.self, name: .coreDataProvider)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,85 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "354dda32d89fc8cd4f5c46487f64957d355f53d8",
+        "version" : "5.6.1"
+      }
+    },
+    {
+      "identity" : "ohhttpstubs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AliSoftware/OHHTTPStubs.git",
+      "state" : {
+        "revision" : "12f19662426d0434d6c330c6974d53e2eb10ecd9",
+        "version" : "9.1.0"
+      }
+    },
+    {
+      "identity" : "querykit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/QueryKit/QueryKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6542e1129885173d31cc6206855bd8abb52b446a"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core",
+      "state" : {
+        "revision" : "472d325a2e844fcb48c400db74e6b9646f92ca93",
+        "version" : "11.15.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "41fe221e2209ad31bee35593513d957dc3e6e458"
+      }
+    },
+    {
+      "identity" : "resolver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Resolver.git",
+      "state" : {
+        "revision" : "97de0b0320036607564af4a60025b48f8d041221",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "rxalamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RxSwiftCommunity/RxAlamofire.git",
+      "state" : {
+        "revision" : "9535b58695b91fb67f56d58d6fd0c76462d7743a",
+        "version" : "6.1.2"
+      }
+    },
+    {
+      "identity" : "rxrealm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RxSwiftCommunity/RxRealm.git",
+      "state" : {
+        "revision" : "a7de576348d48286d8b100a501f757a1c531f1dd",
+        "version" : "5.0.5"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
